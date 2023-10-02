@@ -22,7 +22,7 @@
 <table style="border:none;" > 
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="80" alt="react"/></td>
-    <td><img src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp" width="80" alt="next"/></td>
+    <td><img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" width="80" alt="next"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" width="80" alt="svelte"/></td>
     <td><img src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" width="80" alt="tf"/></td>
     <td><img src="https://pytorch.org/tutorials/_static/img/thumbnails/cropped/profiler.png" width="80" alt="pytorch"/></td>
