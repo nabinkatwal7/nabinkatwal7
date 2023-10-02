@@ -38,5 +38,5 @@
   </tr>
 </table>
 
-## I can NOT help you with following modules and frameworks:
+## I can NOT help you with ANYTHING related to following languages:
 <img src="https://www.php.net/images/meta-image.png" width="80" alt="shit language"/>
