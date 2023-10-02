@@ -6,7 +6,8 @@
 - 🌱 I’m currently revising Machine Learning and Statistics.
 - 📫 How to reach me: mediocampistaa@gmail.com
 
-<table>
+## I can help you with following languages:
+<table style="border:none;" > 
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="80" alt="py"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="80" alt="cpp"/></td>
