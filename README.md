@@ -28,11 +28,19 @@
   </tr>
   <tr>
     <td><img src="https://i.pinimg.com/736x/28/ce/bf/28cebfa3c75ff7815999b0c81a826af6.jpg" width="30" alt="pandas"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="50" alt="scikit learn"/></td>
-    <td><img src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ" width="50" alt="matplotlib"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="30" alt="scikit learn"/></td>
+    <td><img src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ" width="30" alt="matplotlib"/></td>
     <td><img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png" width="30" alt="spring boot"/></td>
-    <td><img src="https://files.dimagi.com/wp-content/uploads/2016/01/Django.png" width="20" alt="django"/></td>
+    <td><img src="https://files.dimagi.com/wp-content/uploads/2016/01/Django.png" width="30" alt="django"/></td>
     <td><img src="https://docs.zeet.co/assets/images/flask-a3319b33492c2abbf2abfc0403064405.png" width="30" alt="flask"/></td>
+  </tr>
+   <tr>
+    <td><img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Tailwind-CSS1-900x0.png" width="30" alt="tailwind"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="30" alt="gsap"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="30" alt="scss"/></td>
+    <td><img src="https://ui.shadcn.com/apple-touch-icon.png" width="30" alt="shadcn"/></td>
+    <td><img src="https://avatars.githubusercontent.com/u/79146003?v=4&s=400" width="30" alt="mantine"/></td>
+    <td><img src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png" width="30" alt="material"/></td>
   </tr>
 </table>
 
