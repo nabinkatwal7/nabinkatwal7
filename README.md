@@ -15,7 +15,7 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="80" alt="java"/></td>
     <td><img src="https://www.computerhope.com/jargon/j/javascript.png" width="80" alt="js"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80" alt="ts"/></td>
-     <td><img src="https://seeklogo.com/images/R/rust-logo-7072B9D560-seeklogo.com.png" width="80" alt="rust"/></td>
+     <td><img src="https://rust-lang.org/logos/rust-logo-512x512.png" width="80" alt="rust"/></td>
   </tr>
 </table>
 
@@ -33,7 +33,7 @@
     <td><img src="https://i.pinimg.com/736x/28/ce/bf/28cebfa3c75ff7815999b0c81a826af6.jpg" width="80" alt="pandas"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="80" alt="scikit learn"/></td>
     <td><img src="https://media.licdn.com/dms/image/D4D12AQGcGmAd9Cqraw/article-cover_image-shrink_600_2000/0/1688537312933?e=2147483647&v=beta&t=p7C9OMCJl8NmJdRyb_b-rfwK2iwgy87BfWPYVkHtyHQ" width="80" alt="matplotlib"/></td>
-    <td><img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png" width="80" alt="spring boot"/></td>
+    <td><img src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png" width="120" alt="spring boot"/></td>
     <td><img src="https://files.dimagi.com/wp-content/uploads/2016/01/Django.png" width="80" alt="django"/></td>
     <td><img src="https://docs.zeet.co/assets/images/flask-a3319b33492c2abbf2abfc0403064405.png" width="80" alt="flask"/></td>
   </tr>
