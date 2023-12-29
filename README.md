@@ -1,4 +1,5 @@
 ### Hi!!
+
 - 🔭 I’m currently working on nothing actually
 - 🌱 I’m currently learning Rust.
 - 📫 How to reach me: mediocampistaa@gmail.com
@@ -44,3 +45,4 @@
   </tr>
 </table>
 
+![](https://komarev.com/ghpvc/?username=nabinkatwal7)
