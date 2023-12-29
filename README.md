@@ -15,6 +15,7 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="80" alt="java"/></td>
     <td><img src="https://www.computerhope.com/jargon/j/javascript.png" width="80" alt="js"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80" alt="ts"/></td>
+     <td><img src="https://seeklogo.com/images/R/rust-logo-7072B9D560-seeklogo.com.png" width="80" alt="rust"/></td>
   </tr>
 </table>
 
