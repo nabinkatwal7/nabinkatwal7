@@ -1,4 +1,6 @@
-### Hi!!
+# Hi!!
+
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 - 🔭 I’m currently working on nothing actually
 - 🌱 I’m currently learning Rust.
@@ -80,6 +82,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+![Nabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabinkatwal7&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=nabinkatwal7)
 
