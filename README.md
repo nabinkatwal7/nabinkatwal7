@@ -2,7 +2,7 @@
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
-- 🔭 I’m currently working on nothing actually
+- 🔭 I’m currently building something.
 - 🌱 I’m currently learning Rust.
 - 📫 How to reach me: mediocampistaa@gmail.com
 
