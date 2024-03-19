@@ -2,8 +2,8 @@
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
-- 🔭 I’m currently building something.
-- 🌱 I’m currently learning Data analysis and Big Data.
+- 🔭 I’m currently idle.
+- 🌱 I’m currently learning Go.
 - 📫 How to reach me: mediocampistaa@gmail.com
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
