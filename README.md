@@ -88,4 +88,6 @@
 
 ![](https://komarev.com/ghpvc/?username=nabinkatwal7)
 
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+
 
