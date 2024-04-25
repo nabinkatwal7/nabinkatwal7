@@ -8,6 +8,8 @@
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
+[![autocomplete](https://codeium.com/badges/user/monkeyuzumaki/autocomplete)](https://codeium.com/profile/monkeyuzumaki)
+
 ### When I am AFK
 ![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
