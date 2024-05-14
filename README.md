@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning Go.
 - 📫 How to reach me: mediocampistaa@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinkatwal7&hide=php)](https://github.com/nabinkatwal7)
+
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 [![autocomplete](https://codeium.com/badges/user/monkeyuzumaki/autocomplete)](https://codeium.com/profile/monkeyuzumaki)
