@@ -2,6 +2,10 @@
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
+<a href="https://dotfyle.com/plugins/marko-cerovac/material.nvim">
+	<img src="https://dotfyle.com/plugins/marko-cerovac/material.nvim/shield?style=for-the-badge" />
+</a>
+
 - 🔭 I’m currently idle.
 - 🌱 I’m currently learning Go.
 - 📫 How to reach me: mediocampistaa@gmail.com
