@@ -83,6 +83,8 @@
 
 ![Nabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabinkatwal7&show_icons=true&theme=radical)
 
+<a href="https://app.daily.dev/nabeenkatwal7"><img src="https://api.daily.dev/devcards/v2/NxgoR33zYB0SyzkiIPpId.png?type=wide&r=b5q" width="652" alt="Nabin Katwal's Dev Card"/></a>
+
 ![](https://komarev.com/ghpvc/?username=nabinkatwal7)
 
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
