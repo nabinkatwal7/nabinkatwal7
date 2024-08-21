@@ -1,5 +1,15 @@
 # Hi!!
 
+You know that meme phrase, “Wow! If I had a nickel for every time [x], I’d have two nickels— which isn’t a lot, but it’s weird that it happened twice. Right?”
+
+Today, for the second time ever, I met someone who is friends with a person who became a billionaire, and that now-billionaire has made them their personal software engineer, and they just work for that person full time and make an incredibly generous salary.
+
+Both of them work on absolutely random projects that range from app prototypes to… fixing submarines. It blows my mind. I asked one of them how their now-billionaire friend has changed and he said, “eh, he drives a much nicer car to the grocery store, and travels really, really well, but the rest is kind of the same.”
+
+The scale of a billion dollars is so unfathomable. You could pay someone a salary of a million dollars for a thousand years, and never run out of money, because you make more than that on just interest alone. I will never not be floored at the concept. You could solve so many of the world’s problems, and still live a perfectly comfortable life.
+
+Anyway, hey future billionaires, lmk if you want me to be your personal software engineer. I probably can’t fix your submarine, but I could make you a reeeeally performant web app and tell you some decent jokes, all for the measly price of me never having to worry about my bills, childcare, or healthcare costs again!
+
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 - 🔭 I’m currently idle.
