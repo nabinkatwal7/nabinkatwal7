@@ -16,6 +16,8 @@ Anyway, hey future billionaires, lmk if you want me to be your personal software
 - 🌱 I’m currently learning Go.
 - 📫 How to reach me: mediocampistaa@gmail.com
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nabinkatwal7&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinkatwal7&hide=php)](https://github.com/nabinkatwal7)
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
