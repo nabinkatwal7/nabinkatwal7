@@ -13,7 +13,7 @@ Anyway, hey future billionaires, lmk if you want me to be your personal software
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 - 🔭 I’m currently idle.
-- 🌱 I’m currently learning Go.
+- 🌱 2025 Language: GO.
 - 📫 How to reach me: mediocampistaa@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nabinkatwal7&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
