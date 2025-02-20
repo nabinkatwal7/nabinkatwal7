@@ -1,37 +1,9 @@
 # Hi!!
-
-You know that meme phrase, “Wow! If I had a nickel for every time [x], I’d have two nickels— which isn’t a lot, but it’s weird that it happened twice. Right?”
-
-Today, for the second time ever, I met someone who is friends with a person who became a billionaire, and that now-billionaire has made them their personal software engineer, and they just work for that person full time and make an incredibly generous salary.
-
-Both of them work on absolutely random projects that range from app prototypes to… fixing submarines. It blows my mind. I asked one of them how their now-billionaire friend has changed and he said, “eh, he drives a much nicer car to the grocery store, and travels really, really well, but the rest is kind of the same.”
-
-The scale of a billion dollars is so unfathomable. You could pay someone a salary of a million dollars for a thousand years, and never run out of money, because you make more than that on just interest alone. I will never not be floored at the concept. You could solve so many of the world’s problems, and still live a perfectly comfortable life.
-
-Anyway, hey future billionaires, lmk if you want me to be your personal software engineer. I probably can’t fix your submarine, but I could make you a reeeeally performant web app and tell you some decent jokes, all for the measly price of me never having to worry about my bills, childcare, or healthcare costs again!
-
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
-
-- 🔭 I’m currently idle.
+- 🔭 I’m currently super focused on GoLang.
 - 🌱 2025 Language: GO.
 - 📫 How to reach me: mediocampistaa@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nabinkatwal7&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabinkatwal7&hide=php)](https://github.com/nabinkatwal7)
-
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
-
-[![autocomplete](https://codeium.com/badges/user/monkeyuzumaki/autocomplete)](https://codeium.com/profile/monkeyuzumaki)
-[![streak](https://codeium.com/badges/v2/user/monkeyuzumaki/streak)](https://codeium.com/profile/monkeyuzumaki)
-
-### When I am AFK
-![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white)
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 ### My Arsenal
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
@@ -41,26 +13,22 @@ Anyway, hey future billionaires, lmk if you want me to be your personal software
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-
 ## I can help you with following languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![GoLang](https://img.shields.io/badge/go-%2300599C.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## I can help you with following modules and frameworks:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -93,16 +61,6 @@ Anyway, hey future billionaires, lmk if you want me to be your personal software
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-![Nabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabinkatwal7&show_icons=true&theme=radical)
-
-<a href="https://app.daily.dev/nabeenkatwal7"><img src="https://api.daily.dev/devcards/v2/NxgoR33zYB0SyzkiIPpId.png?type=wide&r=b5q" width="652" alt="Nabin Katwal's Dev Card"/></a>
-
 ![](https://komarev.com/ghpvc/?username=nabinkatwal7)
-
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
-
-<a href="https://dotfyle.com/plugins/marko-cerovac/material.nvim">
-	<img src="https://dotfyle.com/plugins/marko-cerovac/material.nvim/shield?style=for-the-badge" />
-</a>
 
 
