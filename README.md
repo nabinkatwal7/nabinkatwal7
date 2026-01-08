@@ -1,6 +1,7 @@
 # Hi!!
 - 🔭 I’m currently super focused on GoLang.
 - 🌱 2025 Language: GO.
+- 🌱 2026 Language: GO.
 - 📫 How to reach me: mediocampistaa@gmail.com
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32923%26minutes%3D0%26color%3D222%26style%3Dsocial)](https://codetime.dev)
